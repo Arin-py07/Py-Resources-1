@@ -1,2 +1,2 @@
 # Py-Resources-1
-Real Python Resources
+Real Python Projects 
