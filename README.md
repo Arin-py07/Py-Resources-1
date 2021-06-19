@@ -1,2 +1,2 @@
-# Py-Resources-1
+# Py-WhatsAppAutomation
 Real Python Projects 
